@@ -1,23 +1,50 @@
-¡Bienvenido (o bienvenida) a mi perfil de GitHub!
+## Versión en español
+*(English version below)*
 
-Soy una estudiante de último año de Ingeniería Informática en la Universidad de Murcia. He realizado la mención en Computación, que es la especialización que contiene inteligencia artificial. 
+¡Bienvenido/a a mi perfil de GitHub!
 
-En mi perfil podrás encontrar algunos de los proyectos que he relizado en la mención, por si les quieres echar un vistazo.
+Soy una ingeniera informática recién graduada con especialización en computación, que incluye inteligencia artificial.
 
-## Proyectos públicos
+Aquí encontrarás algunos de los proyectos que he realizado como parte de mi especialización.
 
+### Proyectos públicos
 - [Visión artificial](https://github.com/LolaConde/Vision-Artificial)
-    - Varias aplicaciones de visión por ordenador, entre ellas reconocimiento de objetos y filtros de imagen.
-    - Uso de **OpenCV** y **Python**.
-- [Aprendizaje computacional](https://github.com/LolaConde/Predictor_popularidad_canciones): 
-    - Creación de un modelo de machine learning para predecir cómo de popular será una canción según sus características.
-    - Uso de **R**.
+    - Varias aplicaciones de visión por computador, incluyendo reconocimiento de objetos y filtrado de imágenes.
+    - Desarrollado con **OpenCV** y **Python**.
+- [Aprendizaje automático](https://github.com/LolaConde/Predictor_popularidad_canciones): 
+    - Entrené modelos de aprendizaje automático para predecir la popularidad de una canción en función de sus características.
+    - Utilizado **R**.
 - [Compresión multimedia](https://github.com/LolaConde/Compresion-de-imagenes-basada-en-DCT): 
-    - Estudio comparativo de dos algoritmos de compresión de imágenes. 
-    - Se usó **Matlab** para la implementación de los algoritmos, pero en el repositorio sólo se incluye la memoria del proyecto.
+    - Estudio comparativo de dos algoritmos de compresión de imágenes.
+    - Implementado en **Matlab**. Solo se incluye el informe del proyecto en este repositorio.
 
-## Contacto
+### Contacto
 
-Si quieres saber más sobre mí, me puedes encontrar en [LinkedIn](https://www.linkedin.com/in/lola-conde-herrera/).
-
+Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com/in/lola-conde-herrera/).
 ¡Gracias por visitar mi perfil!
+
+## English version
+
+Welcome to my GitHub profile!
+
+I am a recent graduate in computer engineering with a specialization in computing, which covers artificial intelligence, computer vision, and other areas.
+
+Here you will find some of the projects I have completed as part of my specialization.
+
+### Public projects
+
+- [Artificial vision](https://github.com/LolaConde/Vision-Artificial)
+    - Various computer vision applications, including object recognition and image filtering.
+    - Developed using **OpenCV** and **Python**.
+- [Machine learning](https://github.com/LolaConde/Predictor_popularidad_canciones): 
+    - Training of machine learning models to predict the popularity of a song based on its characteristics.
+    - Used **R**.
+- [Media compression](https://github.com/LolaConde/Compresion-de-imagenes-basada-en-DCT): 
+    - Comparative study of two image compression algorithms.
+    - Implemented in **Matlab**. Only the project report is included in this repository.
+
+### Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lola-conde-herrera/). 
+
+Thank you for visiting my profile!
