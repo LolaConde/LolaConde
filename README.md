@@ -3,11 +3,14 @@
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
-Soy una ingeniera informática recién graduada con especialización en computación, que incluye inteligencia artificial.
+He estudiado un grado en ingeniería informática y he finalizado recientemente un máster en inteligencia artificial.
 
-Aquí encontrarás algunos de los proyectos que he realizado como parte de mi especialización.
+Aquí encontrarás algunos de los proyectos que he realizado como parte de mi especialización del grado y el TFM del máster.
 
 ### Proyectos públicos
+- [TFM](https://github.com/LolaConde/seguimiento-identidad-jugadores-baloncesto)
+    - Seguimiento multi-objeto para preservar la identidad de jugadores en partidos de baloncesto, combinando OCR de dorsales y clasificación de equipos.
+    - Desarrollado con **Python**
 - [Visión artificial](https://github.com/LolaConde/Vision-Artificial)
     - Varias aplicaciones de visión por computador, incluyendo reconocimiento de objetos y filtrado de imágenes.
     - Desarrollado con **OpenCV** y **Python**.
@@ -27,12 +30,14 @@ Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com/in/lola-conde-he
 
 Welcome to my GitHub profile!
 
-I am a recent graduate in computer engineering with a specialization in computing, which covers artificial intelligence, computer vision, and other areas.
+I have studied computer engineering and have recently finished a master in artificial intelligence.
 
-Here you will find some of the projects I have completed as part of my specialization.
+Here you will find some of the projects I have completed as part of my specialization in my bachelors and my master's thesis.
 
 ### Public projects
-
+- [Master's thesis](https://github.com/LolaConde/seguimiento-identidad-jugadores-baloncesto)
+    - Multi-object tracking to preserve player identity in basketball games, combining jersey number OCR and team classification.
+    - Developed using **Python**
 - [Artificial vision](https://github.com/LolaConde/Vision-Artificial)
     - Various computer vision applications, including object recognition and image filtering.
     - Developed using **OpenCV** and **Python**.
