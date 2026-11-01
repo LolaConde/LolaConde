@@ -17,6 +17,9 @@ Aquí encontrarás algunos de los proyectos que he realizado como parte de mi es
 - [Aprendizaje automático](https://github.com/LolaConde/Predictor_popularidad_canciones): 
     - Entrené modelos de aprendizaje automático para predecir la popularidad de una canción en función de sus características.
     - Utilizado **R**.
+- [AppChat](https://github.com/LolaConde/AppChat):
+    - Aplicación de escritorio de mensajería local desarrollada en Java con interfaz gráfica, gestión de usuarios y contactos, persistencia de datos, y exportación de conversaciones a PDF.
+    - Desarrollado con **Java**
 - [Compresión multimedia](https://github.com/LolaConde/Compresion-de-imagenes-basada-en-DCT): 
     - Estudio comparativo de dos algoritmos de compresión de imágenes.
     - Implementado en **Matlab**. Solo se incluye el informe del proyecto en este repositorio.
@@ -44,6 +47,9 @@ Here you will find some of the projects I have completed as part of my specializ
 - [Machine learning](https://github.com/LolaConde/Predictor_popularidad_canciones): 
     - Training of machine learning models to predict the popularity of a song based on its characteristics.
     - Used **R**.
+- [AppChat](https://github.com/LolaConde/AppChat):
+    - Desktop application for local messaging developed in Java with graphical interface, user and contact management, data persistence, and conversation export to PDF.
+    - Developed using **Java**
 - [Media compression](https://github.com/LolaConde/Compresion-de-imagenes-basada-en-DCT): 
     - Comparative study of two image compression algorithms.
     - Implemented in **Matlab**. Only the project report is included in this repository.
