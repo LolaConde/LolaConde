@@ -11,6 +11,9 @@ Aquí encontrarás algunos de los proyectos que he realizado como parte de mi es
 - [TFM](https://github.com/LolaConde/seguimiento-identidad-jugadores-baloncesto)
     - Seguimiento multi-objeto para preservar la identidad de jugadores en partidos de baloncesto, combinando OCR de dorsales y clasificación de equipos.
     - Desarrollado con **Python**
+- [Agente de IA local](https://github.com/LolaConde/local-ai-agent)
+    - Agente que utiliza modelos locales, herramientas y RAG para responder preguntas de evaluación. Proyecto final del curso de agentes de Hugging Face.
+    - Desarrollado con **Python**, **LlamaIndex** y **Ollama**.
 - [Visión artificial](https://github.com/LolaConde/Vision-Artificial)
     - Varias aplicaciones de visión por computador, incluyendo reconocimiento de objetos y filtrado de imágenes.
     - Desarrollado con **OpenCV** y **Python**.
@@ -41,6 +44,9 @@ Here you will find some of the projects I have completed as part of my specializ
 - [Master's thesis](https://github.com/LolaConde/seguimiento-identidad-jugadores-baloncesto)
     - Multi-object tracking to preserve player identity in basketball games, combining jersey number OCR and team classification.
     - Developed using **Python**
+- [Local AI Agent](https://github.com/LolaConde/local-ai-agent)
+    - Agent that uses local models, tools, and RAG to answer evaluation questions. Final project for the Hugging Face agents course.
+    - Built with **Python**, **LlamaIndex** and **Ollama**.
 - [Artificial vision](https://github.com/LolaConde/Vision-Artificial)
     - Various computer vision applications, including object recognition and image filtering.
     - Developed using **OpenCV** and **Python**.
